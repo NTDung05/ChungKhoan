@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChungKhoan", "ChungKhoan\ChungKhoan.csproj", "{CDF1EB1C-219C-4FF8-830E-9CE89C242DA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectSQLServer", "ConnectSQLServer\ConnectSQLServer.csproj", "{CD7A0DB7-E1AC-4C24-A900-24122EECA933}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDF1EB1C-219C-4FF8-830E-9CE89C242DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF1EB1C-219C-4FF8-830E-9CE89C242DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF1EB1C-219C-4FF8-830E-9CE89C242DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF1EB1C-219C-4FF8-830E-9CE89C242DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD7A0DB7-E1AC-4C24-A900-24122EECA933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7A0DB7-E1AC-4C24-A900-24122EECA933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7A0DB7-E1AC-4C24-A900-24122EECA933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7A0DB7-E1AC-4C24-A900-24122EECA933}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDD453F8-0BDB-4556-A1FA-CE62584EA100}
+	EndGlobalSection
+EndGlobal

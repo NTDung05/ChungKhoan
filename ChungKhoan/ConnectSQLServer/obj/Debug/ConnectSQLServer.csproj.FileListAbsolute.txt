@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\ChungKhoan\ConnectSQLServer\obj\Debug\ConnectSQLServer.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ChungKhoan\ConnectSQLServer\bin\Debug\ConnectSQLServer.exe.config
+C:\Users\PC\source\repos\ChungKhoan\ConnectSQLServer\bin\Debug\ConnectSQLServer.exe
+C:\Users\PC\source\repos\ChungKhoan\ConnectSQLServer\bin\Debug\ConnectSQLServer.pdb
+C:\Users\PC\source\repos\ChungKhoan\ConnectSQLServer\obj\Debug\ConnectSQLServer.exe
+C:\Users\PC\source\repos\ChungKhoan\ConnectSQLServer\obj\Debug\ConnectSQLServer.pdb

@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\ChungKhoan\ChungKhoan\bin\Debug\ChungKhoan.exe.config
+C:\Users\PC\source\repos\ChungKhoan\ChungKhoan\bin\Debug\ChungKhoan.exe
+C:\Users\PC\source\repos\ChungKhoan\ChungKhoan\bin\Debug\ChungKhoan.pdb
+C:\Users\PC\source\repos\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.Form1.resources
+C:\Users\PC\source\repos\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.Properties.Resources.resources
+C:\Users\PC\source\repos\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.exe
+C:\Users\PC\source\repos\ChungKhoan\ChungKhoan\obj\Debug\ChungKhoan.pdb
