@@ -40,7 +40,6 @@
 			this.cbMB = new System.Windows.Forms.ComboBox();
 			this.btDatLenh = new System.Windows.Forms.Button();
 			this.btReset = new System.Windows.Forms.Button();
-			this.btTest = new System.Windows.Forms.Button();
 			this.SuspendLayout();
 			// 
 			// cbLoaiLenh
@@ -152,22 +151,11 @@
 			this.btReset.UseVisualStyleBackColor = true;
 			this.btReset.Click += new System.EventHandler(this.btReset_Click);
 			// 
-			// btTest
-			// 
-			this.btTest.Location = new System.Drawing.Point(13, 348);
-			this.btTest.Name = "btTest";
-			this.btTest.Size = new System.Drawing.Size(75, 23);
-			this.btTest.TabIndex = 14;
-			this.btTest.Text = "Test";
-			this.btTest.UseVisualStyleBackColor = true;
-			this.btTest.Click += new System.EventHandler(this.btTest_Click);
-			// 
 			// Form1
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(673, 438);
-			this.Controls.Add(this.btTest);
 			this.Controls.Add(this.btReset);
 			this.Controls.Add(this.btDatLenh);
 			this.Controls.Add(this.cbMB);
@@ -202,7 +190,6 @@
 		private System.Windows.Forms.ComboBox cbMB;
 		private System.Windows.Forms.Button btDatLenh;
 		private System.Windows.Forms.Button btReset;
-		private System.Windows.Forms.Button btTest;
 	}
 }
 
